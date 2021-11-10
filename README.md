@@ -1,5 +1,5 @@
 # todayApp
-Step-by-step implementation of the UIKit project on the Apple official site.
+Step-by-step implementation of the UIKit project on the [Apple official site](https://developer.apple.com/tutorials/app-dev-training/getting-started-with-today).
 
 &check;UIKit Essentials
 
